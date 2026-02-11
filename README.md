@@ -1,6 +1,8 @@
 # Hi there 👋
 
 
+
+
 👋 I’m Youssef Mohamed, an AI Engineer specializing in Machine Learning and Deep Learning, with expertise in Computer Vision and real-world AI applications.<br><br>🎓 I hold a Bachelor’s degree in Computer Science with a specialization in Artificial Intelligence from Misr University for Science and Technology.<br><br>🚀 I’m passionate about practical AI solutions, particularly in detection, tracking, and behavior understanding.<br><br>🧠 I enjoy developing AI that interacts with the real world, optimizing models to make them robust and reliable.<br><br>💡 Currently, I focus on optimizing deep learning models and deploying them for real-time applications.
 
 
